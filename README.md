@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  Привет, я Larkliy!
+  Hi there, I'm Larkliy!
 </h1>
 
 <p align="center">
@@ -19,18 +19,16 @@
   </a>
 </p>
 
-<hr/>
+---
 
-<h3 align="center">Моя статистика 📊</h3>
+### 🚀 Open Source Contributions
+
+*   **dotnet/runtime**: Contributed a fix to the NativeAOT compiler ([PR #115293](https://github.com/dotnet/runtime/pull/115293)) that corrects instance size emission, improving the debugging experience in tools like IDA.
+
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dadavadd&show_icons=true&theme=radical" alt="GitHub Stats">
-   
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavadd&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <a href="https://github.com/dadavadd?tab=repositories">
-    <img src="https://img.shields.io/badge/Больше_проектов-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
