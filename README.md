@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>.NET разработчик, увлеченный изучением новых технологий.</strong>
+  <strong>.NET Developer passionate about low-level programming, performance optimization, and developer tools. Specializing in NativeAOT, Roslyn Source Generators, and runtime internals.</strong>
 </p>
 
 <p align="center">
