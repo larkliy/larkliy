@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  I'm a passionate and self-taught .NET Developer with a dual focus: building robust, scalable backend services with ASP.NET Core, and diving deep into the .NET runtime internals, performance optimization, and developer tooling. I thrive on understanding how things work 'under the hood' to write better code 'on top'.
+  I'm a passionate and self-taught .NET Developer with a dual focus: building robust, scalable backend services with ASP.NET Core, and diving deep into the .NET runtime internals, performance optimization, and developer tooling.
 </p>
 
 ### 🚀 My Key Projects
