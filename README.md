@@ -88,7 +88,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadavadd&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=larkliy&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadavadd&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkliy&layout=compact&theme=radical" alt="Top Languages">
 </p>
