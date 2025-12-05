@@ -83,12 +83,3 @@
 
 - **dotnet/runtime**: Contributed a fix to the NativeAOT compiler ([PR #115293](https://github.com/dotnet/runtime/pull/115293)) that corrects instance size emission, improving the debugging experience in tools like IDA.
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larkliy&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larkliy&layout=compact&theme=radical" alt="Top Languages">
-</p>
