@@ -81,5 +81,5 @@
 
 ### 🌟 Open Source Contributions
 
-- **dotnet/runtime**: Contributed a fix to the NativeAOT compiler ([PR #115293](https://github.com/dotnet/runtime/pull/115293)) that corrects instance size emission, improving the debugging experience in tools like IDA.
+- **dotnet/runtime**: ([PR #115293](https://github.com/dotnet/runtime/pull/115293)).
 
