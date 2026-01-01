@@ -7,38 +7,6 @@
   I'm a passionate and self-taught .NET Developer with a dual focus: building robust, scalable backend services with ASP.NET Core, and diving deep into the .NET runtime internals, performance optimization, and developer tooling.
 </p>
 
-### 🚀 My Key Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">IGrok - Authentication & Licensing API</h3>
-      <div align="center">
-        <a href="https://github.com/dadavadd/IGrok">
-          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-          <img src="https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-          <img src="https://img.shields.io/badge/xUnit-172836?style=for-the-badge&logo=xunit&logoColor=white" />
-        </a>
-        <p>A complete REST API for user authentication and license management, built with modern .NET practices. Features a secure JWT implementation with refresh tokens, HWID binding, and a full suite of unit and integration tests.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">NativeAOT Metadata Dumper</h3>
-      <div align="center">
-        <a href="https://github.com/dadavadd/NativeAotDumper">
-          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-          <img src="https://img.shields.io/badge/NativeAOT-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-        </a>
-        <p>A low-level tool for parsing and dumping metadata and strings from NativeAOT-compiled executables. This project showcases a deep understanding of the .NET runtime's internal structures.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ My Tech Stack & Toolbox
 
 <p align="left">
